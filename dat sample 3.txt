@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Standoff 0.22.2 is a Python library that provides a framework for managing annotations and annotations metadata in text documents. ","photo":"https://iili.io/HSCp8JI.webp"},
+  {"title":"tips pack 2","desc":" Standoff is particularly useful for Natural Language Processing (NLP) tasks, where annotations of different types are often used to represent various linguistic phenomena, such as named entities, part-of-speech tags, or syntactic structures.","photo":"https://iili.io/HSCpgbn.jpg"},
+  {"title":"how to use this app 3","desc":"The name "standoff" refers to the fact that annotations are stored separately from the text they annotate, in a format called "standoff annotation"","photo":"https://iili.io/HSCpUOX.jpg"},
+  {"title":"advice mod 4","desc":"This format allows multiple annotations to be associated with the same text without interfering with each other.","photo":"https://iili.io/HSCp4xs.jpg"},
+  {"title":"helper pack 5","desc":"Standoff also provides a flexible and extensible API for creating, manipulating, and querying annotations, which makes it a popular choice for many NLP applications.","photo":"https://iili.io/HSCp6WG.jpg"},
+  {"title":"advance mod 6","desc":"Standoff was first introduced in 2010 as part of the GATE (General Architecture for Text Engineering) framework, which is an open-source platform for NLP research and development.","photo":"https://iili.io/HSCpPsf.jpg"},
+  {"title":"tips pack 7","desc":"The original implementation of Standoff was written in Java and provided a set of tools for creating and visualizing annotations in text documents.","photo":"https://iili.io/HSCpsf4.jpg"},
+  {"title":"how to use this app 8","desc":"n 2013, a Python implementation of Standoff was released as part of the Brat Rapid Annotation Tool, which is a web-based annotation tool that allows users to create and manage annotations in text documents.","photo":"https://iili.io/HSCpSRt.jpg"}
    ]
  
 }
